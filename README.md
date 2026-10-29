@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Writing+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Typerino Free Installer** — Typerino is a macOS writing environment that plays typewriter sounds as you type, creating an immersive analog writing atmosphere. Works without internet access, no account required. Full offline installation.
+**💻 Typerino Free Installer** — Typerino is a macOS writing productivity application that combines a typewriter-inspired interface with modern writing tools. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Typerino
 
-Typerino is a macOS writing environment that plays typewriter sounds as you type, creating an immersive analog writing atmosphere. It supports Markdown, custom soundscapes, and a distraction-free full-screen mode for focused creative writing sessions.
+Typerino is a macOS writing productivity application that combines a typewriter-inspired interface with modern writing tools. Features include a distraction-free full-screen mode, word count tracking, typing sound effects for ambiance, and export to common formats. Typerino appeals to writers who want a focused, aesthetically pleasing writing environment on their Mac.
 
 ---
 
 ## ❌ Problem: Typerino is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Novelty Factor** — Typewriter sounds useful for some writers but a distraction for others
-- **Basic Feature Set** — Simple writing tool; lacks the organizational features of Scrivener
-- **Paid App** — Requires purchase from Mac App Store
+- **macOS Only** — No Windows or cross-platform version
+- **Limited Features** — Basic writing tool without advanced organization or outlining
+- **Niche Appeal** — Typewriter aesthetics not for every writer
+- **Long Document Handling** — Not optimized for very long manuscripts
 
 ---
 
@@ -121,7 +121,7 @@ Typerino is a macOS writing environment that plays typewriter sounds as you type
 
 ---
 
-**Typerino Free Installer** — Typerino is a macOS writing environment that plays typewriter sounds as you type, creating an immersive analog writing atmosphere. Install without internet connection today!
+**Typerino Free Installer** — Typerino is a macOS writing productivity application that combines a typewriter-inspired interface with modern writing tools. Install without internet connection today!
 
 <div align="center">
 
